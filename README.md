@@ -1,4 +1,21 @@
-Fdanielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gerardo Calia
+
+## Full Stack Web developer, gamer and Tech enthusiast
+
+-   🌍  I'm based in Avellino / Poggibonsi.
+-   🖥️  See my portfolio at [Gerardo Calia](http://www.gerardocalia.it)
+-   ✉️  You can contact me at [gerardocaliadev@gmail.com](mailto:gerardocaliadev@gmail.com)
+-   🚀  I'm currently working on [Gerardo Calia and more projects](http://www.gerardocalia.it)
+-   🧠  I'm learning React.Js and Node.Js
+-   🤝  I'm open to collaborating on on all interesting projects that allow me to develop my skills.
+-   ⚡  I'm extremely curious and a big nerd.
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
@@ -15,21 +32,22 @@ Fdanielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" widt
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-
 </p>
 
 ### Socials
 
-                <p align="left">
+<p align="left"> <a href="https://discord.com/users/sofesso97#0015" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Sof-97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/calia97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gerardo-calia-00a745223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-                      <a href="https://discord.com/users/sofesso97#0015" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+### Badges
 
-                      <a href="https://www.github.com/Sof-97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<b>My GitHub Stats</b>
 
-                      <a href="http://www.instagram.com/calia97/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="http://www.github.com/Sof-97"><img src="https://github-readme-stats.vercel.app/api?username=Sof-97&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Sof-97's GitHub stats" /></a>
 
-                      <a href="https://www.linkedin.com/in/gerardo-calia-00a745223/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Sof-97"><img src="https://github-readme-stats.vercel.app/api?username=Sof-97&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&show_icons=true" alt="Sof-97's GitHub stats" /></a><a
-                      href="http://www.github.com/Sof-97"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Sof-97&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/Sof-97"><img src="https://activity-graph.herokuapp.com/graph?username=Sof-97&bg_color=0f172a&color=ffffff&line=10b981&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/Sof-97/boolbnb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sof-97&repo=boolbnb&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/Sof-97"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sof-97&stroke=ffffff&background=0f172a&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Sof-97"><img src="https://activity-graph.herokuapp.com/graph?username=Sof-97&bg_color=0f172a&color=ffffff&line=10b981&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Sof-97/boolbnb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sof-97&repo=boolbnb&title_color=10b981&text_color=ffffff&icon_color=10b981&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
